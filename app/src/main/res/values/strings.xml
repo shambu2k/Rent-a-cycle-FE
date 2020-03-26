@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rent-a-cycle</string>
+    <string name="weightheight_info">We need your weight and height data to \n
+accurately calculate your calorie count during rides</string>
+</resources>
